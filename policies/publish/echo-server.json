@@ -1,7 +1,7 @@
 {
     "format":1,
     "package": {
-        "name":"docker.io/alexeytarasovpa/oss-na24-slsa-workshop-project1-echo-server",
+        "name":"docker.io/atarasov8888/oss-na24-slsa-workshop-project1-echo-server",
         "environment":{
             "any_of": [
                 "staging", "prod"
