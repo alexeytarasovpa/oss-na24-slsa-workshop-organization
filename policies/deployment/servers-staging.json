@@ -8,7 +8,7 @@
     },
     "packages":[
         {
-            "name": "docker.io/atarasov8888/oss-na24-slsa-workshop-project1-echo-server",
+            "name": "ghcr.io/alexeytarasovpa/oss-na24-slsa-workshop-project1-echo-server",
             "environment": {
                 "any_of": [
                     "staging"
@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "docker.io/atarasov8888/oss-na24-slsa-workshop-project2-something",
+            "name": "ghcr.io/alexeytarasovpa/oss-na24-slsa-workshop-project2-something",
             "environment": {
                 "any_of": [
                     "staging"
